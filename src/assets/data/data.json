@@ -1,0 +1,397 @@
+{
+    "Creatives": [
+        {
+            "email_address": "dinelajohnmoren@gmail.com",
+            "complete_name": "John Moren Dinela",
+            "image_path": "volunteers/creatives-moren.jpeg",
+            "comittee": "Creatives",
+            "role": "Secondary Lead"
+        },
+        {
+            "email_address": "francisromasanta14@gmail.com",
+            "complete_name": "Francis Erick C. Romasanta",
+            "image_path": "volunteers/creatives-romasanta.jpeg",
+            "comittee": "Creatives",
+            "role": "Video Editing Head "
+        },
+        {
+            "email_address": "nathaliamancilla30@gmail.com",
+            "complete_name": "Nathalia Angela S. Mancilla",
+            "image_path": "volunteers/creatives-mancilla.jpeg",
+            "comittee": "Creatives",
+            "role": "Video Editing Committee "
+        },
+        {
+            "email_address": "xianhuicheng01@gmail.com",
+            "complete_name": "Xian Hui B. Cheng",
+            "image_path": "volunteers/creatives-cheng.jpg",
+            "comittee": "Creatives",
+            "role": "Video Editing Committee"
+        },
+        {
+            "email_address": "franzjara02@gmail.com",
+            "complete_name": "Francine Nastassja P. Jara",
+            "image_path": "volunteers/creatives-jara.HEIC",
+            "comittee": "Creatives",
+            "role": "Graphics Lead"
+        },
+        {
+            "email_address": "krstnvlllbs@gmail.com",
+            "complete_name": "Kristine Faye L. Villalobos ",
+            "image_path": "volunteers/creatives-villalobos.jpeg",
+            "comittee": "Creatives",
+            "role": "Graphics and Design Committee "
+        },
+        {
+            "email_address": "lannzow@gmail.com",
+            "complete_name": "Michael Lannz M. Salalima",
+            "image_path": "volunteers/creatives-salalima.jpg",
+            "comittee": "Creatives",
+            "role": "Graphics committee"
+        },
+        {
+            "email_address": "akmbatacandulo@pcu.edu.ph",
+            "complete_name": "Ace Kenneth M. Batacandulo",
+            "image_path": "volunteers/creatives-batacandulo.jpg",
+            "comittee": "Creatives",
+            "role": "Team Lead"
+        },
+        {
+            "email_address": "kath.kathaquino3.16@gmail.com",
+            "complete_name": "Katrina Aquino ",
+            "image_path": "volunteers/creatives-aquino.jpg",
+            "comittee": "Creatives",
+            "role": "Member"
+        },
+        {
+            "email_address": "mariecrisedusma@gmail.com",
+            "complete_name": "Marie Cris O. Edusma",
+            "image_path": "volunteers/creatives-edusma.jpg",
+            "comittee": "Creatives",
+            "role": "Video Editing Team "
+        },
+        {
+            "email_address": "jedricvicente@gmail.com",
+            "complete_name": "Jedric Knight G. Vicente",
+            "image_path": "volunteers/creatives-vicente.jpeg",
+            "comittee": "Creatives",
+            "role": "Member"
+        },
+        {
+            "email_address": "ejcampanano37@gmail.com",
+            "complete_name": "Elijah Josh R. Campa¤ano",
+            "image_path": "volunteers/creatives-campa%C3%B1ano.webp",
+            "comittee": "Creatives",
+            "role": "Graphic Design Committee"
+        }
+    ],
+    "Finance and Partnerships": [
+        {
+            "email_address": "markachilesflores2004@gmail.com",
+            "complete_name": "Mark Achiles G. Flores Jr.",
+            "image_path": "volunteers/finance-flores.jpg",
+            "comittee": "Finance and Partnerships",
+            "role": "AVP Finance "
+        },
+        {
+            "email_address": "jezreellazarte@gmail.com",
+            "complete_name": "Jezreel Rezhen C. Lazarte",
+            "image_path": "volunteers/finance-lazarte.jpg",
+            "comittee": "Finance and Partnerships",
+            "role": "Member"
+        },
+        {
+            "email_address": "nicoleserapio01@gmail.com",
+            "complete_name": "Alessandra Nicole L. Serapio",
+            "image_path": "volunteers/finance-serapio.png",
+            "comittee": "Finance and Partnerships",
+            "role": "Member"
+        },
+        {
+            "email_address": "alaintorno@gmail.com",
+            "complete_name": "Alain Andrei I. Torno",
+            "image_path": "volunteers/finance-torno.JPG",
+            "comittee": "Finance and Partnerships",
+            "role": "Member"
+        },
+        {
+            "email_address": "anthonyjamescatipay07@gmail.com",
+            "complete_name": "Anthony James A. Catipay ",
+            "image_path": "volunteers/finance-catipay.jpeg",
+            "comittee": "Finance and Partnerships",
+            "role": "VP Finance "
+        },
+        {
+            "email_address": "francinexespineda@gmail.com",
+            "complete_name": "Francine Liahn E. Espineda",
+            "image_path": "volunteers/finance-espineda.png",
+            "comittee": "Finance and Partnerships",
+            "role": "Member"
+        },
+        {
+            "email_address": "thekings.jm@gmail.com",
+            "complete_name": "John Michael Vincent Mamansag",
+            "image_path": "volunteers/finance-mamansag.jpg",
+            "comittee": "Finance and Partnerships",
+            "role": "Member"
+        },
+        {
+            "email_address": "yojmsiapengco@gmail.com",
+            "complete_name": "Yoj M. Siapengco",
+            "image_path": "volunteers/finance-siapengco.png",
+            "comittee": "Finance and Partnerships",
+            "role": "Member"
+        },
+        {
+            "email_address": "luckysilo2803@gmail.com",
+            "complete_name": "Lucky P. Silo",
+            "image_path": "volunteers/finance-silo.jpg",
+            "comittee": "Finance and Partnerships",
+            "role": "member"
+        },
+        {
+            "email_address": "blancojames88@gmail.com",
+            "complete_name": "James Luis B. Blanco",
+            "image_path": "volunteers/finance-blanco.jpg",
+            "comittee": "Finance and Partnerships",
+            "role": "member "
+        },
+        {
+            "email_address": "Atoalivia@gmail.com",
+            "complete_name": "Angelito Alivia III",
+            "image_path": "volunteers/finance-alivia.jpg",
+            "comittee": "Finance and Partnerships",
+            "role": "Finance"
+        },
+        {
+            "email_address": "kevinamparado13@gmail.com",
+            "complete_name": "Kevin Christian Amparado",
+            "image_path": "volunteers/finance-amparado.png",
+            "comittee": "Finance and Partnerships",
+            "role": "Member"
+        },
+        {
+            "email_address": "ederlierose11@gmail.com",
+            "complete_name": "Ederlie Rose Leoncio",
+            "image_path": "volunteers/finance-leoncio.jpg",
+            "comittee": "Finance and Partnerships",
+            "role": "Member"
+        }
+    ],
+    "Marketing": [
+        {
+            "email_address": "danickajoy.ejercito@gmail.com",
+            "complete_name": "Danicka Ejercito",
+            "image_path": "volunteers/marketing-ejercito.jpg",
+            "comittee": "Marketing",
+            "role": "VP for Community Partnerships"
+        },
+        {
+            "email_address": "manuelle.alexieb@gmail.com",
+            "complete_name": "Manuelle Alexie D. Bukas",
+            "image_path": "volunteers/marketing-bukas.jpg",
+            "comittee": "Marketing",
+            "role": "Members"
+        },
+        {
+            "email_address": "jashleinleanne@gmail.com",
+            "complete_name": "Jashlein Leanne T. Marquez",
+            "image_path": "volunteers/marketing-marquez.jpg",
+            "comittee": "Marketing",
+            "role": "VP for Social Media Marketing"
+        },
+        {
+            "email_address": "vincegabriellelita@gmail.com",
+            "complete_name": "Vince Gabrielle D.L. Lita",
+            "image_path": "volunteers/marketing-lita.jpg",
+            "comittee": "Marketing",
+            "role": "Member"
+        },
+        {
+            "email_address": "lsbillones@gmail.com",
+            "complete_name": "Laine Billones",
+            "image_path": "volunteers/marketing-billones.jpeg",
+            "comittee": "Marketing",
+            "role": "Member"
+        },
+        {
+            "email_address": "mayoipat@gmail.com",
+            "complete_name": "Patricia Emerie Dela Pena",
+            "image_path": "volunteers/marketing-dela+pena.png",
+            "comittee": "Marketing",
+            "role": "VP for University Partnerships"
+        },
+        {
+            "email_address": "aaronsilerio8@gmail.com",
+            "complete_name": "Aaron Gabriel Silerio",
+            "image_path": "volunteers/marketing-silerio.jpg",
+            "comittee": "Marketing",
+            "role": "VP for Social Media Marketing"
+        }
+    ],
+    "Operations": [
+        {
+            "email_address": "manansalaroan11@gmail.com",
+            "complete_name": "Roan P. Manansala",
+            "image_path": "volunteers/operations-manansala.png",
+            "comittee": "Operations",
+            "role": "AVP Operations"
+        },
+        {
+            "email_address": "miguel.rafaellouie2003@gmail.com",
+            "complete_name": "Rafael Louie V. Miguel",
+            "image_path": "volunteers/operations-miguel.jpg",
+            "comittee": "Operations",
+            "role": "Event Manager Operations/Usher"
+        },
+        {
+            "email_address": "franciazethra78@gmail.com",
+            "complete_name": "Louie Dominic G. Francia",
+            "image_path": "volunteers/operations-francia.jpg",
+            "comittee": "Operations",
+            "role": "Lead Usher/ Event Manager Oprations"
+        },
+        {
+            "email_address": "cjalpornon@gmail.com",
+            "complete_name": "Christine Julia T. Alpornon",
+            "image_path": "volunteers/operations-alpornon.JPG",
+            "comittee": "Operations",
+            "role": "Event Manager Operations/ Usher"
+        },
+        {
+            "email_address": "isaeus.guiang26@gmail.com",
+            "complete_name": "Isaeus B. Guiang",
+            "image_path": "volunteers/operations-guiang.jpg",
+            "comittee": "Operations",
+            "role": "VP Operations "
+        },
+        {
+            "email_address": "roselarjay463@gmail.com",
+            "complete_name": "Arjay N. Rosel",
+            "image_path": "volunteers/operations-rosel.jpg",
+            "comittee": "Operations",
+            "role": "Event Manager/ Usher"
+        },
+        {
+            "email_address": "sophiaalbd@gmail.com",
+            "complete_name": "Sophia RY. Alabado",
+            "image_path": "volunteers/operations-alabado.jpg",
+            "comittee": "Operations",
+            "role": "Logistics"
+        },
+        {
+            "email_address": "claireroterfil@gmail.com",
+            "complete_name": "Clareene Roterfil D. Borromeo",
+            "image_path": "volunteers/operations-borromeo.jpg",
+            "comittee": "Operations",
+            "role": "Event Manager/Usher"
+        },
+        {
+            "email_address": "keithmonte15@gmail.com",
+            "complete_name": "Keith Reijay Mercado Montemayor ",
+            "image_path": "volunteers/operations-montemayor.jpg",
+            "comittee": "Operations",
+            "role": "Photo and Video team"
+        },
+        {
+            "email_address": "bacolod.mikailajhayl@gmail.com",
+            "complete_name": "Mikaila Jhay L. Bacolod",
+            "image_path": "volunteers/operations-bacolod.jpg",
+            "comittee": "Operations",
+            "role": "Event Manager Operations/ Usher"
+        },
+        {
+            "email_address": "brianmaysebastian@gmail.com",
+            "complete_name": "Brian May E. Sebastian",
+            "image_path": "volunteers/operations-sebastian.png",
+            "comittee": "Operations",
+            "role": "Event Manager Operations / Usher"
+        },
+        {
+            "email_address": "joaquindaniela2018@gmail.com",
+            "complete_name": "Daniela D. Joaquin",
+            "image_path": "volunteers/operations-joaquin.jpg",
+            "comittee": "Operations",
+            "role": "Event Manager Operations/ Usher"
+        },
+        {
+            "email_address": "bognotcassandra@gmail.com",
+            "complete_name": "Kristina Cassandra D. Bognot",
+            "image_path": "volunteers/operations-bognot.jpeg",
+            "comittee": "Operations",
+            "role": "Logistics "
+        },
+        {
+            "email_address": "contact@leafykenny.social",
+            "complete_name": "Ken Ryan Calvez",
+            "image_path": "volunteers/operations-calvez.jpg",
+            "comittee": "Operations",
+            "role": "Usher/ Event Manager "
+        }
+    ],
+    "Programs": [
+        {
+            "email_address": "ederlierose11@gmail.com",
+            "complete_name": "Ederlie Rose Leoncio",
+            "image_path": "volunteers/programs-leoncio.jpg",
+            "comittee": "Programs",
+            "role": "Member"
+        },
+        {
+            "email_address": "novelle.estrella@gmail.com",
+            "complete_name": "Novelle Lyn Estrella",
+            "image_path": "volunteers/programs-estrella.jpg",
+            "comittee": "Programs",
+            "role": "AVP Programs"
+        },
+        {
+            "email_address": "alexreyeseduc@gmail.com",
+            "complete_name": "Alex Reyes",
+            "image_path": "volunteers/programs-reyes.jpg",
+            "comittee": "Programs",
+            "role": "Member"
+        },
+        {
+            "email_address": "angleonard30@gmail.com",
+            "complete_name": "Leonard Ang",
+            "image_path": "volunteers/programs-ang.jpg",
+            "comittee": "Programs",
+            "role": "Member"
+        },
+        {
+            "email_address": "jorizivannvillanueva18@gmail.com",
+            "complete_name": "Joriz Ivann Villanueva",
+            "image_path": "volunteers/programs-villanueva.jpg",
+            "comittee": "Programs",
+            "role": "Member"
+        },
+        {
+            "email_address": "prexiousmanucom14@gmail.com",
+            "complete_name": "Precious Grace Deborah S. Manucom",
+            "image_path": "volunteers/programs-manucom.jpg",
+            "comittee": "Programs",
+            "role": "VP Programs Committee "
+        },
+        {
+            "email_address": "kimmontana23@gmail.com",
+            "complete_name": "Kim M. Montana",
+            "image_path": "volunteers/programs-montana.jpg",
+            "comittee": "Programs",
+            "role": "Member"
+        },
+        {
+            "email_address": "airamaerobles@gmail.com",
+            "complete_name": "Aira Mae R. Robles",
+            "image_path": "volunteers/programs-robles.jpeg",
+            "comittee": "Programs",
+            "role": "Member"
+        },
+        {
+            "email_address": "aemyobinguar@gmail.com",
+            "complete_name": "Armielyn Obinguar",
+            "image_path": "volunteers/programs-obinguar.jpg",
+            "comittee": "Programs",
+            "role": "Member"
+        }
+    ]
+}
